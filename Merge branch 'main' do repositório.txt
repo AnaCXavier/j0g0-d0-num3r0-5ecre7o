@@ -1,3 +1,0 @@
-Merge branch 'main' do repositório remoto
-
-Atualiza o repositório local com as últimas alterações do repositório remoto.
